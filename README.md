@@ -1,60 +1,62 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:0a0e14,100:10364a&text=JU3L&fontColor=1AB8FC&fontSize=58&fontAlignY=42&desc=Minecraft%20Development%20%7C%20Server%20Systems%20%7C%20Automation&descAlignY=68&descSize=14" width="100%" alt="JU3L developer banner" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=180&color=0:1a0d00,100:FF6B00&text=JU3L&fontColor=FFFFFF&fontSize=58&fontAlignY=42&desc=Hokage%20of%20HavenCraft%20Village%20%7C%20Minecraft%20Development%20%7C%20Server%20Systems&descAlignY=68&descSize=14" width="100%" alt="JU3L ninja banner" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1AB8FC&center=true&vCenter=true&width=600&lines=Minecraft+Plugin+Developer;Paper+Server+Specialist;Discord+Bot+Builder;Web+%26+Automation" alt="Typing animation" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Minecraft+Plugin+Developer;Hokage+of+HavenCraft+Village;S-Rank+Mission:+Better+Servers;Discord+Bot+Builder" alt="Typing animation" />
 </p>
 
 <p align="center">
-  <b>Building better Minecraft server experiences through custom development and practical automation.</b>
+  <b>Building better Minecraft server experiences — one mission at a time.</b>
 </p>
 
 <p align="center">
-  <a href="https://havencraft.pro"><img src="https://img.shields.io/badge/HavenCraft-havencraft.pro-1AB8FC?style=flat-square&logo=minecraft&logoColor=white" alt="HavenCraft" /></a>
+  <a href="https://havencraft.pro"><img src="https://img.shields.io/badge/HavenCraft-havencraft.pro-FF6B00?style=flat-square&logo=minecraft&logoColor=white" alt="HavenCraft" /></a>
   <a href="https://www.youtube.com/@hvn-bd"><img src="https://img.shields.io/badge/YouTube-%40hvn--bd-FF0000?style=flat-square&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://dc.havencraft.pro"><img src="https://img.shields.io/badge/Discord-dc.havencraft.pro-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
 </p>
 
 ---
 
-## 👋 About Me
+## 🥷 Ninja Profile
 
-I'm **JU3L**, a developer focused on Minecraft server development, server systems, and web-based tools. By day I work in port operations; by night I build — custom plugins, Discord bots, dashboards, and the whole ecosystem around my Minecraft server, **HavenCraft**.
+| | |
+|---|---|
+| **Name** | JU3L |
+| **Village** | HavenCraft — the village I built and protect |
+| **Rank** | Hokage (Founder) |
+| **Specialty** | Plugin Jutsu — Java + Paper API |
+| **Day job** | Port operations (tally) by day, shinobi builder by night |
+| **Mission record** | 5 S-Rank plugins live in production |
 
-- 🎮 **Minecraft:** Paper server development and custom plugin systems
-- 🌐 **Web:** Websites, dashboards, and user interfaces
-- 🗄️ **Backend:** Supabase integrations and automation
-- 🎯 **Focus:** Maintainable, practical solutions that actually ship
-
-## 🧩 What I Build
-
-Real plugins running in production on HavenCraft:
-
-| Plugin | What it does |
-|--------|--------------|
-| **HavenCore** | Punishment GUI, player settings, Supabase-synced leaderboards, combat system, OP security |
-| **HavenSell** | GUI-based sell system for nearly all items |
-| **HavenShop** | Clean buy-only shop |
-| **HavenShards** | Activity-based economy — earn shards, spend them in the shop |
-| **AuctionHouse** | Classic `/ah` player auction house |
-
-Plus a **Discord ticket-bridge bot** (website ↔ Discord support tickets) and the **Haven-Admin** server operations dashboard.
-
-## 🛠️ Tech Stack
+## ⚔️ Tools I Fight With
 
 <p>
   <img src="https://skillicons.dev/icons?i=java,js,nodejs,html,css,git,supabase,vercel,discord&theme=dark" alt="Technology icons" />
 </p>
 
-## 📊 GitHub Stats
+## 🎖️ S-Rank Missions
+
+Real plugins running in production on HavenCraft:
+
+| Mission | Jutsu | Rank |
+|--------|-------|------|
+| **HavenCore** | Punishment GUI, player settings, Supabase-synced leaderboards, combat system, OP security | S |
+| **HavenSell** | GUI-based sell system for nearly all items | S |
+| **HavenShop** | Clean buy-only shop | S |
+| **HavenShards** | Activity-based economy — earn shards, spend them in the shop | S |
+| **AuctionHouse** | Classic `/ah` player auction house | S |
+
+**Side quests:** a Discord ticket-bridge bot (website ↔ Discord support tickets) and the **Haven-Admin** server operations dashboard.
+
+## 📊 Stats from the Field
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=havencraftbd&show_icons=true&theme=transparent&title_color=1AB8FC&text_color=c9d1d9&icon_color=1AB8FC&hide_border=true" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=havencraftbd&layout=compact&theme=transparent&title_color=1AB8FC&text_color=c9d1d9&hide_border=true" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=havencraftbd&show_icons=true&theme=transparent&title_color=FF6B00&text_color=c9d1d9&icon_color=FF6B00&hide_border=true" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=havencraftbd&layout=compact&theme=transparent&title_color=FF6B00&text_color=c9d1d9&hide_border=true" alt="Top languages" />
 </p>
 
-## 🐍 Watch my contributions get eaten
+## 🐍 Summoning Jutsu — contributions
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/havencraftbd/havencraftbd/output/github-snake-dark.svg" />
@@ -72,5 +74,5 @@ Interested in working together on a Minecraft server or web project?
 - 💼 Open for: custom plugin development, server setup, web projects
 
 <p align="center">
-  <sub>Building useful things, one project at a time.</sub>
+  <sub>Believe it! Building useful things, one mission at a time. 🍥</sub>
 </p>
